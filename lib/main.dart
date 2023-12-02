@@ -127,7 +127,7 @@ class _CalculatorState extends State<Calculator> {
                       style: TextStyle(fontSize: 40, color: Colors.black)),
                 ),
                 Container(
-                  height: 80,
+                  height: 800,
                   width: 80,
                   alignment: Alignment.center,
                   margin: EdgeInsets.all(10),
